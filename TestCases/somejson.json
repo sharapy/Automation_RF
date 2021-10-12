@@ -1,0 +1,21 @@
+{
+    "firstname": "john",
+    "lastname": "smith",
+    "age": 35,
+    "Address": {
+        "StreetAddress": "Al Mankhool, 21 3rd Street",
+        "city": "Bur Dubai",
+        "state": "Dubai",
+        "postalCode": "WeDontHaveAny"
+    },
+    "phoneNumber": [
+        {
+            "type": "Home",
+            "number": "04383883"
+        },
+        {
+            "type": "Mobile",
+            "number": "0503033421"
+        }
+    ]
+}
